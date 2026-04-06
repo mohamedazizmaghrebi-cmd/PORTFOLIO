@@ -1,4 +1,4 @@
-# 🚀 Mohamed Aziz Maghrebi — Data Science & Quant Portfolio  
+#  Mohamed Aziz Maghrebi — Data Science & Quant Portfolio  
 
 ## 👋 About Me  
 Data science student with a strong foundation in **statistics, stochastic processes, and machine learning**. Passionate about applying quantitative methods to **finance, risk modeling, and real-world decision-making**.  
