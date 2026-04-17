@@ -65,8 +65,8 @@ Currently seeking opportunities in:
 ---
 
 ## 📫 Contact  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- Email: your.email@example.com  
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/mohamed-aziz-maghrebi-ba7640304)  
+- Email: mohamedaziz.maghrebi@ensae.fr 
 
 ---
 
