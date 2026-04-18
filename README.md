@@ -42,7 +42,7 @@ Built a **C++ pricing engine** based on the **Black-Scholes-Merton framework**, 
 - sensitivity analysis (**Greeks**),
 - and a **dynamic delta hedging** logic.
 
-This project strengthened both my programming skills and my understanding of financial intuition behind derivatives trading. :contentReference[oaicite:2]{index=2}
+This project strengthened both my programming skills and my understanding of financial intuition behind derivatives trading. 
 
 ### FX Predictive Modeling
 Applied quantitative methods in Python to build **exchange rate forecasting models** using:
@@ -50,7 +50,7 @@ Applied quantitative methods in Python to build **exchange rate forecasting mode
 - **ARDL** macro-financial specifications,
 - and forecast evaluation techniques.
 
-This project was developed in the context of an applied research collaboration with **Symbiotics**. :contentReference[oaicite:3]{index=3}
+This project was developed in the context of an applied research collaboration with **Symbiotics**. 
 
 ### Credit Risk Modeling
 Worked on **credit risk scoring models** for **probability of default estimation**, combining:
@@ -58,18 +58,18 @@ Worked on **credit risk scoring models** for **probability of default estimation
 - Random Forest,
 - Gradient Boosting.
 
-This work was carried out during my internship at **Banque Tunisienne de Solidarité**, with a focus on practical banking applications. :contentReference[oaicite:4]{index=4}
+This work was carried out during my internship at **Banque Tunisienne de Solidarité**, with a focus on practical banking applications. 
 
 ### Heston Model Calibration & SCR Estimation
 Worked on the calibration of the **Heston stochastic volatility model** for FX risk analysis, and on the estimation of the **Solvency Capital Requirement (SCR)** using **Monte Carlo simulation**.
 
-This project was completed during my research internship at **TUNIS REASSURANCE**, where I also compared calibration methods to improve extreme risk measurement. :contentReference[oaicite:5]{index=5}
+This project was completed during my research internship at **TUNIS REASSURANCE**, where I also compared calibration methods to improve extreme risk measurement. 
 
 ### ARIMAX Predictive Control
 Implemented an **ARIMAX-based predictive control strategy** for dynamic systems in MATLAB, combining time series modeling and system control.
 
 ### Bin Packing Optimization
-Solved a **combinatorial optimization problem** using heuristic methods, with a focus on modeling, algorithmic reasoning, and scenario-based analysis. :contentReference[oaicite:6]{index=6}
+Solved a **combinatorial optimization problem** using heuristic methods, with a focus on modeling, algorithmic reasoning, and scenario-based analysis. 
 
 ---
 
@@ -85,7 +85,7 @@ NumPy, Pandas, SciPy, scikit-learn, statsmodels
 Power BI, Excel/VBA, Jupyter, Git
 
 **Core Concepts**  
-Time Series, Econometrics, Monte Carlo Simulation, Stochastic Processes, Optimization, Statistical Learning, Financial Modeling :contentReference[oaicite:7]{index=7}
+Time Series, Econometrics, Monte Carlo Simulation, Stochastic Processes, Optimization, Statistical Learning, Financial Modeling 
 
 ---
 
@@ -96,7 +96,7 @@ I am currently looking for opportunities in:
 - **Data Science & Machine Learning**
 - **Financial Engineering / Quant Research**
 
-I am also available for a **gap-year internship starting June 2026**. :contentReference[oaicite:8]{index=8}
+I am also available for a **gap-year internship starting June 2026**. 
 
 ---
 
@@ -107,7 +107,7 @@ I am also available for a **gap-year internship starting June 2026**. :contentRe
 ---
 
 ## Interests
-Beyond academics and projects, I am also interested in **chess, trading, and football**. :contentReference[oaicite:9]{index=9}
+Beyond academics and projects, I am also interested in **chess, trading, and football**. 
 
 ---
 *Feel free to explore my repositories and reach out if you would like to discuss quantitative finance, data science, or potential collaborations.*
