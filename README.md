@@ -1,7 +1,7 @@
 # Mohamed Aziz Maghrebi — Quantitative Finance & Data Portfolio
 
 ## About Me
-I am a second-year engineering student at **ENSAE Paris**, specializing in **Finance, Risks and Data**, with a strong background in **statistics, econometrics, stochastic processes, time series, and machine learning**. I am also an engineering graduate from **ENIT**, where I specialized in **Modeling and Data Science**. :contentReference[oaicite:1]{index=1}
+I am a second-year engineering student at **ENSAE Paris**, specializing in **Finance, Risks and Data**, with a strong background in **statistics, econometrics, stochastic processes, time series, and machine learning**. I am also an engineering graduate from **ENIT**, where I specialized in **Modeling and Data Science**. 
 
 My main interests lie at the intersection of **quantitative finance**, **risk modeling**, and **data-driven decision-making**. I enjoy working on problems that require both mathematical rigor and practical implementation, from derivative pricing and market modeling to credit risk and forecasting.
 
