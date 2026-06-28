@@ -197,57 +197,9 @@ Key skills developed:
 
 ---
 
-### 4. Credit Risk Modeling
 
-**Banking Risk Project**
-*Python · Credit Scoring · Machine Learning · Probability of Default*
 
-This project focused on building credit scoring models for practical banking applications.
-
-Main work:
-
-* Developed probability of default estimation models.
-* Compared statistical and machine learning approaches.
-* Used logistic regression, Random Forest, and Gradient Boosting.
-* Performed feature engineering and model evaluation.
-* Interpreted model outputs in a credit risk management context.
-
-Key skills developed:
-
-* Credit risk scoring
-* Probability of default modeling
-* Classification models
-* Model validation
-* Banking risk analytics
-
----
-
-### 5. Heston Model Calibration & SCR Estimation
-
-**Quantitative Risk Project**
-*Python · Stochastic Volatility · Monte Carlo · Solvency Capital Requirement*
-
-This project focused on FX risk measurement and solvency capital modeling.
-
-Main work:
-
-* Modeled exchange rate dynamics using the Heston stochastic volatility model.
-* Calibrated model parameters to FX data.
-* Simulated exchange rate scenarios using Monte Carlo methods.
-* Estimated Solvency Capital Requirement for FX risk.
-* Analyzed extreme risk scenarios and model sensitivity.
-
-Key skills developed:
-
-* Stochastic volatility modeling
-* Heston model calibration
-* Monte Carlo simulation
-* FX risk analysis
-* Solvency capital estimation
-
----
-
-### 6. ARIMAX Predictive Control
+### 4. ARIMAX Predictive Control
 
 **Time Series & Control Project**
 *MATLAB · ARIMAX · Forecasting · Control Systems*
@@ -270,7 +222,7 @@ Key skills developed:
 
 ---
 
-### 7. Bin Packing Optimization
+### 5. Bin Packing Optimization
 
 **Combinatorial Optimization Project**
 *Optimization · Heuristics · Algorithmic Modeling*
