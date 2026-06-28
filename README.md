@@ -2,19 +2,345 @@
 
 ## Quantitative Finance · Risk Modeling · Data Science Portfolio
 
-Welcome to my portfolio. I am a second-year engineering student at **ENSAE Paris**, specializing in **Finance, Risks and Data**, with a strong academic background in **statistics, econometrics, stochastic processes, time series analysis, machine learning, and numerical methods**.
+Welcome to my portfolio. I am a second-year engineering student at **ENSAE Paris – Institut Polytechnique de Paris**, specializing in **Finance, Risk and Data**. I am currently seeking a **gap-year internship starting in June 2026** in quantitative finance, risk management, financial engineering, or data science.
 
-I am also an engineering graduate from **ENIT**, where I specialized in **Modeling and Data Science**. My profile combines quantitative methods, financial modeling, risk analysis, and practical programming skills.
+My academic background combines **statistics, econometrics, stochastic processes, financial mathematics, Monte Carlo simulation, machine learning, optimization, and programming**. I am also an engineering graduate from the **National Engineering School of Tunis (ENIT)**, where I specialized in **Modeling and Data Science**, after completing intensive preparatory classes in **Mathematics and Physics** at **IPEST Tunis**.
 
-My main interests lie at the intersection of **quantitative finance**, **risk management**, and **data-driven decision-making**. I enjoy working on projects that require both mathematical rigor and implementation, especially in market modeling, derivative pricing, credit risk, Monte Carlo simulation, and financial time series.
+My main interests lie at the intersection of **quantitative finance**, **risk modeling**, and **data-driven decision-making**. I enjoy working on projects that require both mathematical rigor and practical implementation, from derivative pricing and market modeling to credit risk scoring, solvency capital modeling, and financial time series forecasting.
 
 ---
 
 ## Links
 
-* **GitHub Profile:** [github.com/TON_USERNAME_GITHUB](https://github.com/mohamedazizmaghrebi-cmd)
+* **GitHub Profile:** [github.com/TON_USERNAME_GITHUB](https://github.com/TON_USERNAME_GITHUB)
 * **LinkedIn:** [Mohamed Aziz Maghrebi](https://www.linkedin.com/in/mohamed-aziz-maghrebi-ba7640304/)
 * **Email:** [mohamedaziz.maghrebi@ensae.fr](mailto:mohamedaziz.maghrebi@ensae.fr)
+
+---
+
+## Education
+
+### ENSAE Paris — Institut Polytechnique de Paris
+
+**Master / Engineering Degree — Finance, Risk and Data**
+*Aug 2025 – Sep 2027*
+
+Relevant coursework:
+
+* Stochastic processes
+* Financial mathematics
+* Financial microeconomics
+* Econometrics
+* Financial instruments
+* Accounting and financial analysis
+* Time series
+* Monte Carlo simulation
+* Statistics
+* Machine learning
+* C++ programming
+
+---
+
+### National Engineering School of Tunis — ENIT
+
+**Master / Engineering Degree — Modeling and Data Science**
+*Sep 2023 – Jun 2025*
+
+Relevant coursework:
+
+* Advanced statistics
+* Probability
+* Stochastic calculus
+* Constrained optimization
+* Operations research
+* Data analysis
+* Data mining
+* Machine learning for forecasting
+* C programming
+
+---
+
+### IPEST Tunis
+
+**Preparatory Classes in Mathematics and Physics**
+*Sep 2021 – Jul 2023*
+
+Intensive training in mathematics, physics, and problem-solving, preparing for engineering school entrance examinations.
+
+---
+
+## Professional Experience
+
+### Tunisian Bank of Solidarity
+
+**Risk Analyst Intern — Credit Risk Modeling**
+*Jun 2025 – Jul 2025*
+
+Worked on credit risk modeling and probability of default estimation in a banking environment.
+
+Main contributions:
+
+* Developed and validated credit scoring models for probability of default estimation.
+* Used statistical and machine learning techniques, including logistic regression and Random Forest.
+* Improved credit risk assessment tools by enhancing predictive accuracy.
+* Worked on the ranking and evaluation of loan applicants.
+* Connected model outputs with practical banking risk management needs.
+
+---
+
+### Tunis Reinsurance
+
+**Quantitative Analyst Intern — Solvency Capital Requirement for Foreign Exchange Risk**
+*Nov 2024 – May 2025*
+
+Worked on quantitative risk modeling for FX risk and solvency capital estimation.
+
+Main contributions:
+
+* Developed and calibrated a **Heston stochastic volatility model** to capture exchange rate dynamics.
+* Implemented **Monte Carlo simulations** to estimate the Solvency Capital Requirement for foreign exchange risk.
+* Analyzed simulated risk scenarios and extreme losses.
+* Compared calibration approaches to improve the robustness of FX risk measurement.
+* Contributed to the enhancement of internal risk measurement tools.
+
+---
+
+## Featured Projects
+
+### 1. Exchange Rate Dynamics in Global Markets
+
+**Applied Research Project — ENSAE Paris / Symbiotics Asset Management**
+*Python · Time Series · Econometrics · Forecasting*
+*Oct 2025 – Apr 2026*
+
+This project focused on exchange rate forecasting and macro-financial modeling.
+
+Main work:
+
+* Designed and implemented econometric time series models for FX forecasting.
+* Used **ARIMA** models for mean dynamics.
+* Applied **GARCH** models for volatility modeling.
+* Built **ARDL** frameworks to quantify macro-financial linkages.
+* Studied both short-term and long-term relationships between economic variables and FX rates.
+* Backtested predictive strategies.
+* Evaluated forecasting performance using metrics such as **RMSE** and **MAPE**.
+
+Key skills developed:
+
+* Financial time series analysis
+* Forecasting model validation
+* Volatility modeling
+* Econometric interpretation
+* Python implementation
+
+---
+
+### 2. Options Pricer
+
+**Financial Mathematics Project — ENSAE Paris**
+*C++ · Black-Scholes-Merton · Greeks · Delta Hedging*
+*Sep 2025 – Dec 2025*
+
+Developed a high-performance pricing engine for derivative products based on the **Black-Scholes-Merton framework**.
+
+Main features:
+
+* European option pricing.
+* Computation of risk sensitivities, including Greeks.
+* Delta sensitivity analysis.
+* Dynamic delta hedging logic.
+* Interactive simulation interface for real-time portfolio monitoring.
+* Hedging analysis under different market scenarios.
+
+Key skills developed:
+
+* C++ programming
+* Derivative pricing
+* Financial mathematics
+* Risk sensitivities
+* Dynamic hedging
+* Numerical implementation
+
+---
+
+### 3. Bayesian GARCH Model with Zero-Variance Control Variates
+
+**Simulation & Monte Carlo Methods Project**
+*Python · MCMC · GARCH · Monte Carlo · OLS · Lasso*
+
+This project studied variance reduction methods for Bayesian inference in a **GARCH(1,1)** model.
+
+Main work:
+
+* Implemented a Bayesian GARCH(1,1) model for financial returns.
+* Built a Random Walk Metropolis-Hastings sampler.
+* Estimated posterior quantities using MCMC.
+* Implemented Zero-Variance control variates as a post-processing variance reduction method.
+* Compared first-order and second-order polynomial controls.
+* Used OLS, Lasso, and Post-Lasso regression methods for control variate estimation.
+* Applied the method to both simulated data and real EUR/USD log-returns.
+
+Main result:
+
+* First-order controls reduced Monte Carlo variance by approximately **10× to 50×**.
+* Second-order controls achieved much stronger variance reduction, reaching several hundred to several thousand on simulated data.
+* On real EUR/USD data, the method remained effective when the MCMC sampler was properly calibrated.
+
+Key skills developed:
+
+* Bayesian inference
+* MCMC simulation
+* GARCH volatility modeling
+* Monte Carlo variance reduction
+* Regression-based control variates
+* Financial time series modeling
+
+---
+
+### 4. Credit Risk Modeling
+
+**Banking Risk Project**
+*Python · Credit Scoring · Machine Learning · Probability of Default*
+
+This project focused on building credit scoring models for practical banking applications.
+
+Main work:
+
+* Developed probability of default estimation models.
+* Compared statistical and machine learning approaches.
+* Used logistic regression, Random Forest, and Gradient Boosting.
+* Performed feature engineering and model evaluation.
+* Interpreted model outputs in a credit risk management context.
+
+Key skills developed:
+
+* Credit risk scoring
+* Probability of default modeling
+* Classification models
+* Model validation
+* Banking risk analytics
+
+---
+
+### 5. Heston Model Calibration & SCR Estimation
+
+**Quantitative Risk Project**
+*Python · Stochastic Volatility · Monte Carlo · Solvency Capital Requirement*
+
+This project focused on FX risk measurement and solvency capital modeling.
+
+Main work:
+
+* Modeled exchange rate dynamics using the Heston stochastic volatility model.
+* Calibrated model parameters to FX data.
+* Simulated exchange rate scenarios using Monte Carlo methods.
+* Estimated Solvency Capital Requirement for FX risk.
+* Analyzed extreme risk scenarios and model sensitivity.
+
+Key skills developed:
+
+* Stochastic volatility modeling
+* Heston model calibration
+* Monte Carlo simulation
+* FX risk analysis
+* Solvency capital estimation
+
+---
+
+### 6. ARIMAX Predictive Control
+
+**Time Series & Control Project**
+*MATLAB · ARIMAX · Forecasting · Control Systems*
+
+Implemented an ARIMAX-based predictive control strategy for dynamic systems.
+
+Main work:
+
+* Modeled dynamic systems using time series techniques.
+* Integrated exogenous variables into the forecasting process.
+* Built predictive control logic based on forecasted values.
+* Implemented and tested the approach in MATLAB.
+
+Key skills developed:
+
+* Time series modeling
+* Predictive control
+* MATLAB implementation
+* Dynamic systems analysis
+
+---
+
+### 7. Bin Packing Optimization
+
+**Combinatorial Optimization Project**
+*Optimization · Heuristics · Algorithmic Modeling*
+
+Solved a bin packing optimization problem using heuristic methods.
+
+Main work:
+
+* Formulated the optimization problem.
+* Designed heuristic solution strategies.
+* Compared scenario-based solutions.
+* Analyzed trade-offs between efficiency and solution quality.
+
+Key skills developed:
+
+* Combinatorial optimization
+* Heuristic algorithms
+* Mathematical modeling
+* Scenario analysis
+
+---
+
+## Technical Stack
+
+### Programming Languages
+
+* Python
+* R
+* C++
+* C
+* SQL
+* MATLAB
+* VBA
+* LaTeX
+
+### Python Libraries
+
+* NumPy
+* Pandas
+* SciPy
+* scikit-learn
+* statsmodels
+* Matplotlib
+
+### Data & Analytics Tools
+
+* Power BI
+* Excel
+* VBA
+* Jupyter Notebook
+* Git
+* GitHub
+* Microsoft PowerPoint
+
+### Core Quantitative Skills
+
+* Time series analysis
+* Econometrics
+* Monte Carlo simulation
+* Stochastic processes
+* Financial mathematics
+* Derivative pricing
+* Dynamic hedging
+* GARCH modeling
+* Credit risk modeling
+* Probability of default estimation
+* Machine learning
+* Optimization
+* Statistical learning
+* Financial risk management
 
 ---
 
@@ -25,166 +351,46 @@ My main interests lie at the intersection of **quantitative finance**, **risk ma
 * Derivative pricing
 * Dynamic hedging
 * Stochastic volatility models
-* Monte Carlo simulation
-* Financial time series modeling
+* Monte Carlo methods
+* Financial time series
+* Quantitative research
 
-### Risk Modeling
+### Risk Management
 
 * Market risk
 * Credit risk
 * Counterparty risk
-* Probability of default estimation
+* FX risk
 * Solvency capital modeling
-* FX risk analysis
+* Probability of default estimation
 
-### Data Science & Statistical Learning
+### Data Science
 
 * Predictive modeling
-* Time series forecasting
-* Econometric modeling
 * Machine learning for structured data
-* Model validation and performance analysis
-
-### Scientific Computing
-
-* Numerical methods
-* Simulation-based methods
-* Optimization
-* Statistical inference
-* Mathematical modeling
-
----
-
-## Featured Projects
-
-### 1. Option Pricer with Delta Hedging
-
-Developed a **C++ pricing engine** based on the **Black-Scholes-Merton framework**.
-
-The project includes:
-
-* European option pricing
-* Greeks computation
-* Delta sensitivity analysis
-* Dynamic delta hedging logic
-* Numerical implementation of financial formulas
-
-This project helped me strengthen both my programming skills and my understanding of the financial intuition behind option pricing and hedging strategies.
-
----
-
-### 2. FX Predictive Modeling
-
-Built quantitative models for **foreign exchange rate forecasting** using Python.
-
-The project includes:
-
-* GARCH modeling for volatility dynamics
-* ARDL macro-financial specifications
-* Forecast evaluation
-* Time series preprocessing
-* Exchange rate return analysis
-
-This work was developed in the context of an applied research collaboration with **Symbiotics**, with a focus on quantitative modeling and financial forecasting.
-
----
-
-### 3. Credit Risk Modeling
-
-Worked on **credit risk scoring models** for probability of default estimation.
-
-The project combines:
-
-* Logistic regression
-* Random Forest
-* Gradient Boosting
-* Feature engineering
-* Model evaluation metrics
-* Banking-oriented interpretation of results
-
-This project was carried out during my internship at **Banque Tunisienne de Solidarité**, with a focus on practical credit risk applications.
-
----
-
-### 4. Heston Model Calibration & SCR Estimation
-
-Worked on the calibration of the **Heston stochastic volatility model** for FX risk analysis and on the estimation of the **Solvency Capital Requirement** using Monte Carlo simulation.
-
-The project includes:
-
-* Stochastic volatility modeling
-* Heston model calibration
-* Monte Carlo simulation
-* Extreme risk measurement
-* Comparison of calibration methods
-* SCR estimation under financial risk scenarios
-
-This project was completed during my research internship at **TUNIS REASSURANCE**.
-
----
-
-### 5. Bayesian GARCH Model with Zero-Variance Control Variates
-
-Implemented and studied variance reduction methods for Bayesian inference in a **GARCH(1,1)** model.
-
-The project includes:
-
-* Random Walk Metropolis-Hastings sampling
-* Bayesian posterior estimation
-* Zero-Variance control variates
-* OLS-based control variate estimation
-* Lasso and Post-Lasso comparison
-* Application to simulated and real EUR/USD returns
-
-The objective was to reduce Monte Carlo error in MCMC posterior estimators while preserving the same target expectation.
-
----
-
-### 6. ARIMAX Predictive Control
-
-Implemented an **ARIMAX-based predictive control strategy** for dynamic systems in MATLAB.
-
-The project combines:
-
-* Time series modeling
-* Exogenous variable integration
 * Forecasting
-* Control-oriented prediction
-* MATLAB implementation
+* Model validation
+* Statistical analysis
+* Data-driven decision-making
 
 ---
 
-### 7. Bin Packing Optimization
+## Languages
 
-Solved a **combinatorial optimization problem** using heuristic methods.
-
-The project focuses on:
-
-* Optimization modeling
-* Algorithmic reasoning
-* Scenario analysis
-* Heuristic solution methods
-* Computational implementation
+* **French:** bilingual
+* **English:** advanced
+* **Arabic:** native
 
 ---
 
-## Technical Stack
+## Extracurricular Experience
 
-### Programming Languages
+### Google Developer Student Club — ENIT
 
-Python, R, C++, C, SQL, MATLAB, VBA, LaTeX
+**Active Member**
+*Oct 2023 – May 2024*
 
-### Python Libraries
-
-NumPy, Pandas, SciPy, scikit-learn, statsmodels, Matplotlib
-
-### Tools
-
-Power BI, Excel/VBA, Jupyter Notebook, Git, GitHub, LaTeX
-
-### Core Concepts
-
-Time Series, Econometrics, Monte Carlo Simulation, Stochastic Processes, Optimization, Statistical Learning, Financial Modeling, Risk Management
+Participated in collaborative technical workshops in data science and programming, with a focus on practical learning, teamwork, and applied technology projects.
 
 ---
 
@@ -200,12 +406,22 @@ I am currently looking for opportunities in:
 * Financial Engineering
 * Quantitative Research
 
-I am also available for a **gap-year internship starting June 2026**.
+I am available for a **gap-year internship starting June 2026**.
+
+---
+
+## Interests
+
+Beyond academics and projects, I am interested in:
+
+* Chess
+* Trading
+* Football
 
 ---
 
 ## About This Portfolio
 
-This portfolio presents a selection of academic, professional, and personal projects in quantitative finance, data science, and risk modeling. Each project highlights a specific combination of mathematical modeling, programming, and financial interpretation.
+This portfolio presents a selection of academic, professional, and personal projects in quantitative finance, data science, and risk modeling. Each project highlights a combination of mathematical modeling, programming, and financial interpretation.
 
 Feel free to explore my repositories or contact me if you would like to discuss quantitative finance, data science, risk modeling, or potential collaborations.
