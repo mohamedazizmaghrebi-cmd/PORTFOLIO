@@ -242,6 +242,9 @@ Key skills developed:
 * Heuristic algorithms
 * Mathematical modeling
 * Scenario analysis
+
+---
+
 ### 6. Fuel Consumption Analysis for Cars
 
 **Statistics Project — ENIT**
