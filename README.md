@@ -242,6 +242,29 @@ Key skills developed:
 * Heuristic algorithms
 * Mathematical modeling
 * Scenario analysis
+### 6. Fuel Consumption Analysis for Cars
+
+**Statistics Project — ENIT**
+*R · Statistics · Multiple Regression · PCA · Classification · PCR*
+*Mar 2024 – May 2024*
+
+This project focused on identifying the main factors influencing fuel consumption using an automotive dataset.
+
+Main work:
+
+* Performed a statistical analysis combining descriptive statistics, multiple linear regression, and Principal Component Analysis (PCA).
+* Identified the most relevant explanatory variables affecting fuel consumption.
+* Applied classification techniques to better understand vehicle profiles and consumption patterns.
+* Implemented Principal Component Regression (PCR) to model and predict fuel consumption using transformed explanatory variables.
+
+Key skills developed:
+
+* Statistical analysis
+* Multiple regression
+* Principal Component Analysis
+* Principal Component Regression
+* Classification methods
+* R programming
 
 ---
 
