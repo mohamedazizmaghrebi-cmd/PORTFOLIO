@@ -12,7 +12,7 @@ My main interests lie at the intersection of **quantitative finance**, **risk mo
 
 ## Links
 
-* **GitHub Profile:** [github.com/TON_USERNAME_GITHUB](https://github.com/mohamedazizmaghrebi-cmd)
+* **GitHub Profile:** [mohamedazizmaghrebi-cmd](https://github.com/mohamedazizmaghrebi-cmd)
 * **LinkedIn:** [Mohamed Aziz Maghrebi](https://www.linkedin.com/in/mohamed-aziz-maghrebi-ba7640304/)
 * **Email:** [mohamedaziz.maghrebi@ensae.fr](mailto:mohamedaziz.maghrebi@ensae.fr)
 
