@@ -2,9 +2,9 @@
 
 ## Quantitative Finance · Risk Modeling · Data Science Portfolio
 
-Welcome to my portfolio. I am currently a second-year engineering student in a double-degree program between ENSAE Paris – Institut Polytechnique de Paris, where I specialize in Finance, Risk and Data, and the National Engineering School of Tunis (ENIT), where I study Modeling and Data Science. I am currently seeking a gap-year internship starting in June 2026 in quantitative finance, risk management, financial engineering, or data science.
+Welcome to my portfolio. I am currently a second-year engineering student at ENSAE Paris – Institut Polytechnique de Paris, specializing in Finance, Risk, and Data. I joined ENSAE through a double-degree program with the National Engineering School of Tunis (ENIT), where I specialized in Modeling and Data Science. I am currently seeking a gap-year internship starting in June 2026 in market finance, quantitative finance, risk management, financial engineering, or data science.
 
-My academic background combines statistics, econometrics, stochastic processes, financial mathematics, Monte Carlo simulation, machine learning, optimization, and programming. Before joining the double-degree program, I completed intensive preparatory classes in Mathematics and Physics at IPEST Tunis.
+My academic background combines statistics, econometrics, stochastic processes, financial mathematics, financial instruments, Monte Carlo simulation, machine learning, optimization, and programming. Before joining the double-degree program, I completed intensive preparatory classes in Mathematics and Physics at IPEST Tunis.
 
 My main interests lie at the intersection of quantitative finance, risk modeling, and data-driven decision-making. I enjoy working on projects that require both mathematical rigor and practical implementation, from derivative pricing and market modeling to credit risk scoring, counterparty credit risk, solvency capital modeling, and financial time series forecasting.
 
