@@ -6,7 +6,8 @@ Welcome to my portfolio. I am currently a second-year engineering student at ENS
 
 My academic background combines statistics, econometrics, stochastic processes, financial mathematics, financial instruments, Monte Carlo simulation, machine learning, optimization, and programming. Before joining the double-degree program, I completed intensive preparatory classes in Mathematics and Physics at IPEST Tunis.
 
-My main interests lie at the intersection of quantitative finance, risk modeling, and data-driven decision-making. I enjoy working on projects that require both mathematical rigor and practical implementation, from derivative pricing and market modeling to credit risk scoring, counterparty credit risk, solvency capital modeling, and financial time series forecasting.
+My main interests lie at the intersection of quantitative finance, risk modeling, and data-driven decision-making. I particularly enjoy working in dynamic environments where I can analyze and manipulate data, contribute to reporting and documentation, and transform complex information into clear and actionable insights. I am also interested in projects that combine mathematical rigor with practical implementation, particularly in risk management, financial modeling, and data analysis.
+
 
 ---
 
